@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.09535063511635" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="139.09535063511635" y="0" width="122.1907355215" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="261.28608615661636" y="0" width="76.89568531892823" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="338.1817714755446" y="0" width="61.47659659835985" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="399.65836807390446" y="0" width="24.35475505450845" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="424.01312312841293" y="0" width="14.809122580392618" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="438.82224570880555" y="0" width="13.078821952126514" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.9010676609321" y="0" width="8.098932339067975" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.11497691850408" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="139.11497691850408" y="0" width="122.18326242939166" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="261.29823934789573" y="0" width="76.89098243751361" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="338.1892217854093" y="0" width="61.47283673664099" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="399.6620585220503" y="0" width="24.353265536280883" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="424.0153240583312" y="0" width="14.80821686576037" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="438.82354092409156" y="0" width="13.078022061359839" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.9015629854514" y="0" width="8.09843701454856" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1322,6 +1322,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dhoniaridho/dhoniaridho.com</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9145ff0</div>
+                                        <div class="message">fix: theme toggle responsive</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -1394,26 +1414,6 @@ fix(deps): pin dependency next-themes to 0.2.0</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dhoniaridho/dhoniaridho.com</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7dcb608</div>
-                                        <div class="message">feat: darkmode</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1437,7 +1437,7 @@ fix(deps): pin dependency next-themes to 0.2.0</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2022, 10:58:27 (timezone Asia/Bangkok) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 31 Jul 2022, 11:40:24 (timezone Asia/Bangkok) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
