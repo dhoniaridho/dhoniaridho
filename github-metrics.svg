@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1147" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1114" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2499 Commits
+                            2501 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1326,20 +1326,20 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">dhoniaridho/vue-starter</span>
+                                        <span class="repo">Momofin/pdf-application-web</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">upgrade</span></div>
                                     <div class="commit">
-                                        <div class="sha">#61670dc</div>
-                                        <div class="message">Merge pull request #67 from dhoniaridho/renovate/typescript-4.x
+                                        <div class="sha">#b216230</div>
+                                        <div class="message">Merge pull request #241 from Momofin/fix/document/skeleton
 
-chore(deps): update dependency typescript to v4.8.3</div>
+fix(document/placement): limit moving placement</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8079273</div>
-                                        <div class="message">chore(deps): update dependency typescript to v4.8.3</div>
+                                        <div class="sha">#4394ce5</div>
+                                        <div class="message">fix(document/placement): limit moving placement</div>
                                     </div>
                                 </div>
                             </section>
@@ -1352,12 +1352,29 @@ chore(deps): update dependency typescript to v4.8.3</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#67 chore(deps): update dependency typescript to v4.8.3</span>
+                                        <span class="issue">#241 fix(document/placement): limit moving placement</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">dhoniaridho/vue-starter</span></div>
-                                    <div>2 files changed <span class="code">++36 --36</span></div>
+                                    <div> in <span class="repo">Momofin/pdf-application-web</span></div>
+                                    <div>1 file changed <span class="code">++47 --0</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#241 fix(document/placement): limit moving placement</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">Momofin/pdf-application-web</span></div>
+                                    <div>1 file changed <span class="code">++47 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1368,21 +1385,15 @@ chore(deps): update dependency typescript to v4.8.3</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">dhoniaridho/vue-starter</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Momofin/pdf-application-web</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">fix/document/skeleton</span></div>
                                     <div class="commit">
-                                        <div class="sha">#90be2a5</div>
-                                        <div class="message">Merge pull request #68 from dhoniaridho/renovate/vueuse-head-0.x
-
-fix(deps): update dependency @vueuse/head to v0.7.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2183f99</div>
-                                        <div class="message">fix(deps): update dependency @vueuse/head to v0.7.10</div>
+                                        <div class="sha">#4394ce5</div>
+                                        <div class="message">fix(document/placement): limit moving placement</div>
                                     </div>
                                 </div>
                             </section>
@@ -1395,38 +1406,12 @@ fix(deps): update dependency @vueuse/head to v0.7.10</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#68 fix(deps): update dependency @vueuse/head to v0.7.10</span>
+                                        <span class="issue">#240 fix(document/placement): add skeleton signers loading</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">dhoniaridho/vue-starter</span></div>
-                                    <div>2 files changed <span class="code">++6 --6</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">dhoniaridho/react-starter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dc7a1a3</div>
-                                        <div class="message">Merge pull request #67 from dhoniaridho/renovate/react-18.x
-
-chore(deps): update dependency @types/react to v18.0.19</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06690b0</div>
-                                        <div class="message">chore(deps): update dependency @types/react to v18.0.19</div>
-                                    </div>
+                                    <div> in <span class="repo">Momofin/pdf-application-web</span></div>
+                                    <div>1 file changed <span class="code">++50 --36</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1453,7 +1438,7 @@ chore(deps): update dependency @types/react to v18.0.19</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2022, 12:40:02 (timezone Asia/Bangkok) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Sept 2022, 13:27:51 (timezone Asia/Bangkok) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
