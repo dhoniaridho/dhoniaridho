@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3851 Commits
+                            3853 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.920286334009" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="135.920286334009" y="0" width="108.79183926235767" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="244.71212559636672" y="0" width="79.78807290005217" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="324.5001984964189" y="0" width="78.38418455409281" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="402.8843830505117" y="0" width="31.05703827744106" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="433.94142132795275" y="0" width="9.442252361093454" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="443.3836736890462" y="0" width="9.23882667947859" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.62250036852475" y="0" width="7.377499631475215" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.91286599922478" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="135.91286599922478" y="0" width="108.81101286919683" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="244.72387886842162" y="0" width="79.78371700713379" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="324.5075958755554" y="0" width="78.3799053040495" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="402.8875011796049" y="0" width="31.055342771732224" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="433.9428439513371" y="0" width="9.441736877529326" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="443.38458082886643" y="0" width="9.238322301590458" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.6229031304569" y="0" width="7.377096869543109" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1344,6 +1344,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#42958a1</div>
+                                        <div class="message">feat(datamaster/employee): finalizing feat</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dhoniaridho/digital-print-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c76528f</div>
                                         <div class="message">feat(datamaster/employee): finalizing feat</div>
                                     </div>
@@ -1403,26 +1423,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Momofin/pdf-application-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0593e69</div>
-                                        <div class="message">feat: splash on authenticated loading</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1446,7 +1446,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2022, 21:17:56 (timezone Asia/Bangkok) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Nov 2022, 22:20:44 (timezone Asia/Bangkok) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
