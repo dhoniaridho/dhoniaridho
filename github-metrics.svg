@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 44 repositories
+                            Contributed to 43 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3856 Commits
+                            3860 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.90905014252345" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="135.90905014252345" y="0" width="108.82087276612504" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="244.7299229086485" y="0" width="79.78147701882246" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="324.5113999274709" y="0" width="78.37770472881547" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="402.8891046562864" y="0" width="31.054470869451627" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="433.943575525738" y="0" width="9.441471793611985" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="443.38504731935" y="0" width="9.238062928691473" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.6231102480415" y="0" width="7.376889751958479" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.81404396637316" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="135.81404396637316" y="0" width="109.40482304203977" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="245.21886700841293" y="0" width="79.60026891509567" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="324.8191359235086" y="0" width="78.19968502074444" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="403.01882094425304" y="0" width="30.98393668045479" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="434.00275762470784" y="0" width="9.42002732725162" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="443.42278495195944" y="0" width="9.217080465995002" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.63986541795447" y="0" width="7.36013458204556" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1461,7 +1461,7 @@ chore(deps): update dependency vue-tsc to v1</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2022, 23:27:21 (timezone Asia/Bangkok) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Nov 2022, 00:18:17 (timezone Asia/Bangkok) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
