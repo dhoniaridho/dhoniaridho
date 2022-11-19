@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3894 Commits
+                            3908 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="138.0502402183748" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="138.0502402183748" y="0" width="111.71756899614005" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="249.76780921451484" y="0" width="77.91438050468707" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="327.6821897192019" y="0" width="76.54346018041511" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.225649899617" y="0" width="30.327714528565725" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="434.55336442818276" y="0" width="9.220516507587368" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="443.77388093577014" y="0" width="9.021867945394114" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.7957488811643" y="0" width="7.2042511188357405" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="138.49920449170867" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="138.49920449170867" y="0" width="111.2726076297204" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="249.77181212142906" y="0" width="77.9128969830091" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="327.6847091044382" y="0" width="76.54200276162094" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="404.22671186605913" y="0" width="30.32713707647466" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="434.55384894253376" y="0" width="9.220340945181139" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="443.7741898877149" y="0" width="9.021696165337774" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.7958860530527" y="0" width="7.204113946947328" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1321,8 +1321,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c53b9bc</div>
-                                        <div class="message">feat(orders): list all orders</div>
+                                        <div class="sha">#1fa1e30</div>
+                                        <div class="message">feat(order): info ongoing</div>
                                     </div>
                                 </div>
                             </section>
@@ -1341,28 +1341,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#70218ae</div>
-                                        <div class="message">feat(orders): list all orders</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dhoniaridho/digital-print-frontend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#640b6a6</div>
-                                        <div class="message">feat(orders): list all orders</div>
+                                        <div class="sha">#0d8ee7a</div>
+                                        <div class="message">feat(orders): ongoing order</div>
                                     </div>
                                 </div>
                             </section>
@@ -1381,8 +1361,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#18ee71c</div>
-                                        <div class="message">feat(orders): list all orders</div>
+                                        <div class="sha">#ce69210</div>
+                                        <div class="message">feat(orders): ongoing order</div>
                                     </div>
                                 </div>
                             </section>
@@ -1401,8 +1381,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d0924b</div>
-                                        <div class="message">feat(customer): finalizing</div>
+                                        <div class="sha">#3a32dfe</div>
+                                        <div class="message">feat(order): info ongoing</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dhoniaridho/digital-print-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#72e6500</div>
+                                        <div class="message">feat(orders): list all orders</div>
                                     </div>
                                 </div>
                             </section>
@@ -1430,7 +1430,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2022, 11:23:41 (timezone Asia/Bangkok) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Nov 2022, 12:17:27 (timezone Asia/Bangkok) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
