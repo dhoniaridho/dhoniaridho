@@ -1499,7 +1499,7 @@ feat(transactions/export): export data to csv by range or maximum 3m</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2023, 19:32:41 (timezone Asia/Bangkok) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 5 Jan 2023, 20:25:35 (timezone Asia/Bangkok) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
