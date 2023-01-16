@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4286 Commits
+                            4287 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1333,8 +1333,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f505595</div>
-                                        <div class="message">feat(transactions): apply filter transaction</div>
+                                        <div class="sha">#78d0219</div>
+                                        <div class="message">fix: remove console log</div>
                                     </div>
                                 </div>
                             </section>
@@ -1353,14 +1353,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#17b84f8</div>
-                                        <div class="message">Merge pull request #52 from Momofin/new-api
+                                        <div class="sha">#276ebc0</div>
+                                        <div class="message">Merge pull request #53 from Momofin/new-api
 
-fix: loading state transactions</div>
+fix: remove header x-access-token</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ead6bf0</div>
-                                        <div class="message">fix: loading state transactions</div>
+                                        <div class="sha">#7502c38</div>
+                                        <div class="message">fix: remove header x-access-token</div>
                                     </div>
                                 </div>
                             </section>
@@ -1373,12 +1373,12 @@ fix: loading state transactions</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#52 fix: loading state transactions</span>
+                                        <span class="issue">#53 fix: remove header x-access-token</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Momofin/emet-dashboard</span></div>
-                                    <div>1 file changed <span class="code">++57 --54</span></div>
+                                    <div>1 file changed <span class="code">++0 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1390,12 +1390,12 @@ fix: loading state transactions</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#52 fix: loading state transactions</span>
+                                        <span class="issue">#53 fix: remove header x-access-token</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Momofin/emet-dashboard</span></div>
-                                    <div>1 file changed <span class="code">++57 --54</span></div>
+                                    <div>1 file changed <span class="code">++0 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1407,14 +1407,14 @@ fix: loading state transactions</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Momofin/emet-dashboard-api</span>
+                                        <span class="repo">Momofin/emet-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">new-api</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0b6002a</div>
-                                        <div class="message">feat(transactions): apply filter transaction</div>
+                                        <div class="sha">#7502c38</div>
+                                        <div class="message">fix: remove header x-access-token</div>
                                     </div>
                                 </div>
                             </section>
@@ -1442,7 +1442,7 @@ fix: loading state transactions</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2023, 19:34:19 (timezone Asia/Bangkok) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 16 Jan 2023, 20:25:00 (timezone Asia/Bangkok) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
