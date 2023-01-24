@@ -1446,7 +1446,7 @@ fix(users):search auto change page to 1</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2023, 23:23:35 (timezone Asia/Bangkok) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Jan 2023, 00:15:11 (timezone Asia/Bangkok) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
