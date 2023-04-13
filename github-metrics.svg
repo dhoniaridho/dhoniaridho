@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5386 Commits
+                            5387 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1347,21 +1347,65 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
+                                        <span class="repo">Yureka-Teknologi-Cipta/tnt-fe</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9ab6d21</div>
+                                        <div class="message">fix(porter): assign porter</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Yureka-Teknologi-Cipta/tnt-fe</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c1b4e84</div>
+                                        <div class="message">fix: assign porter</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
                                         <span class="repo">Yureka-Teknologi-Cipta/tnt-api-shipping-ts</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#634b595</div>
-                                        <div class="message">Merge pull request #150 from Yureka-Teknologi-Cipta/develop
+                                        <div class="sha">#b74f55d</div>
+                                        <div class="message">Merge pull request #151 from Yureka-Teknologi-Cipta/develop
 
-fix(manifest): status filter</div>
+Develop</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f463ff4</div>
-                                        <div class="message">fix(manifest): status filter</div>
+                                        <div class="sha">#d3505dd</div>
+                                        <div class="message">fix(porter): assign porter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54671b1</div>
+                                        <div class="message">fix(3pl): logging manifest</div>
                                     </div>
                                 </div>
                             </section>
@@ -1374,12 +1418,12 @@ fix(manifest): status filter</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#150 fix(manifest): status filter</span>
+                                        <span class="issue">#151 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Yureka-Teknologi-Cipta/tnt-api-shipping-ts</span></div>
-                                    <div>3 files changed <span class="code">++4 --9</span></div>
+                                    <div>4 files changed <span class="code">++33 --15</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1391,58 +1435,12 @@ fix(manifest): status filter</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#150 fix(manifest): status filter</span>
+                                        <span class="issue">#151 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Yureka-Teknologi-Cipta/tnt-api-shipping-ts</span></div>
-                                    <div>3 files changed <span class="code">++4 --9</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Yureka-Teknologi-Cipta/tnt-api-shipping-ts</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f463ff4</div>
-                                        <div class="message">fix(manifest): status filter</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Yureka-Teknologi-Cipta/tnt-api-shipping-ts</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#26b6ae4</div>
-                                        <div class="message">Merge pull request #149 from Yureka-Teknologi-Cipta/develop
-
-fix(driver): logging packing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca29b5b</div>
-                                        <div class="message">fix(driver): logging packing</div>
-                                    </div>
+                                    <div>4 files changed <span class="code">++33 --15</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1469,7 +1467,7 @@ fix(driver): logging packing</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2023, 15:20:08 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Apr 2023, 16:15:42 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
