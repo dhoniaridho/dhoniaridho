@@ -1445,7 +1445,7 @@ fix: feedbacks list fix ui</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2023, 13:20:27 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 Apr 2023, 14:14:55 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
