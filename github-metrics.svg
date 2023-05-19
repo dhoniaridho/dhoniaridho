@@ -1316,14 +1316,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cc3b5c7</div>
-                                        <div class="message">Merge pull request #3 from siloamhospitals/feat/emr/fe/laboratory
+                                        <div class="sha">#8b1efc2</div>
+                                        <div class="message">Merge pull request #4 from siloamhospitals/feat/emr/fe/laboratory
 
-feat(deps): add pinia presist storage</div>
+feat(reusable): workcard share component</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#19040fe</div>
-                                        <div class="message">feat(deps): add pinia presist storage</div>
+                                        <div class="sha">#77f757a</div>
+                                        <div class="message">feat(reusable): workcard share component</div>
                                     </div>
                                 </div>
                             </section>
@@ -1336,12 +1336,12 @@ feat(deps): add pinia presist storage</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3 feat(deps): add pinia presist storage</span>
+                                        <span class="issue">#4 feat(reusable): workcard share component</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">siloamhospitals/EMR.FE</span></div>
-                                    <div>6 files changed <span class="code">++27 --6</span></div>
+                                    <div>38 files changed <span class="code">++161 --158</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1353,12 +1353,12 @@ feat(deps): add pinia presist storage</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#3 feat(deps): add pinia presist storage</span>
+                                        <span class="issue">#4 feat(reusable): workcard share component</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">siloamhospitals/EMR.FE</span></div>
-                                    <div>6 files changed <span class="code">++27 --6</span></div>
+                                    <div>38 files changed <span class="code">++161 --158</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1376,8 +1376,8 @@ feat(deps): add pinia presist storage</div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/emr/fe/laboratory</span></div>
                                     <div class="commit">
-                                        <div class="sha">#19040fe</div>
-                                        <div class="message">feat(deps): add pinia presist storage</div>
+                                        <div class="sha">#77f757a</div>
+                                        <div class="message">feat(reusable): workcard share component</div>
                                     </div>
                                 </div>
                             </section>
@@ -1396,14 +1396,14 @@ feat(deps): add pinia presist storage</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#26faa4c</div>
-                                        <div class="message">Merge pull request #2 from siloamhospitals/feat/emr/fe/laboratory
+                                        <div class="sha">#cc3b5c7</div>
+                                        <div class="message">Merge pull request #3 from siloamhospitals/feat/emr/fe/laboratory
 
-chore: update github action just trigger main branch</div>
+feat(deps): add pinia presist storage</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0401979</div>
-                                        <div class="message">chore: update github action just trigger main branch</div>
+                                        <div class="sha">#19040fe</div>
+                                        <div class="message">feat(deps): add pinia presist storage</div>
                                     </div>
                                 </div>
                             </section>
@@ -1431,7 +1431,7 @@ chore: update github action just trigger main branch</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2023, 17:16:24 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 May 2023, 18:12:59 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
