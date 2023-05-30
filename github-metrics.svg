@@ -1344,8 +1344,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4906727</div>
-                                        <div class="message">fix(trainers): rating view</div>
+                                        <div class="sha">#436a435</div>
+                                        <div class="message">fix(rating): export excel</div>
                                     </div>
                                 </div>
                             </section>
@@ -1364,8 +1364,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f31402</div>
-                                        <div class="message">fix(trainers): rating view</div>
+                                        <div class="sha">#3bb10d2</div>
+                                        <div class="message">fix(rating): export excel</div>
                                     </div>
                                 </div>
                             </section>
@@ -1384,8 +1384,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bb45801</div>
-                                        <div class="message">fix(trainers): rating view</div>
+                                        <div class="sha">#679348a</div>
+                                        <div class="message">fix(rating): export excel</div>
                                     </div>
                                 </div>
                             </section>
@@ -1404,8 +1404,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3947ecb</div>
-                                        <div class="message">fix(trainers): rating view0</div>
+                                        <div class="sha">#9d880df</div>
+                                        <div class="message">fix(rating): export excel</div>
                                     </div>
                                 </div>
                             </section>
@@ -1424,8 +1424,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#84d34b6</div>
-                                        <div class="message">fix(trainers): rating view0</div>
+                                        <div class="sha">#d12a6a1</div>
+                                        <div class="message">fix(rating): export excel</div>
                                     </div>
                                 </div>
                             </section>
@@ -1453,7 +1453,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2023, 05:14:39 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 May 2023, 06:14:45 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
