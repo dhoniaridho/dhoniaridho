@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5200 Commits
+                            5529 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.16960441893983" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="163.16960441893983" y="0" width="137.850158166554" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="301.0197625854939" y="0" width="55.68989213516745" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="356.7096547206613" y="0" width="53.47989943837935" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="410.18955415904065" y="0" width="20.81673643142169" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="431.00629059046236" y="0" width="14.643426037597166" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="445.64971662805954" y="0" width="8.02138372079042" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.67110034884996" y="0" width="6.328899651150086" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.15919829752443" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="163.15919829752443" y="0" width="137.87070323302032" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="301.02990153054475" y="0" width="55.68634051915886" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="356.7162420497036" y="0" width="53.47648876438267" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="410.1927308140863" y="0" width="20.815408846620898" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="431.00813966070723" y="0" width="14.64249215490604" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.6506318156133" y="0" width="8.020872158032054" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.6715039736453" y="0" width="6.328496026354706" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1321,6 +1321,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#31a16aa</div>
+                                        <div class="message">fix: copyright</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dhoniaridho/mochinul-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9a42025</div>
+                                        <div class="message">fix: copyright</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dhoniaridho/mochinul-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4e7e3d9</div>
                                         <div class="message">feat(checkout): validation form</div>
                                     </div>
@@ -1367,46 +1407,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dhoniaridho/mochinul-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bba95e7</div>
-                                        <div class="message">feat: add additional data</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dhoniaridho/mochinul-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f3c3c92</div>
-                                        <div class="message">fix: unique code payment</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1430,7 +1430,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2023, 09:26:48 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jul 2023, 10:14:58 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
