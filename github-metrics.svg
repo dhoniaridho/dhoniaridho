@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5516 Commits
+                            5520 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.18541550944244" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="163.18541550944244" y="0" width="139.44368416751746" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="302.62909967695987" y="0" width="55.09514839881541" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="357.7242480757753" y="0" width="52.9087574592476" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="410.6330055350229" y="0" width="20.59442277396605" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="431.2274283089889" y="0" width="14.575543080807613" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="445.80297138979654" y="0" width="7.935718844420446" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.73869023421696" y="0" width="6.261309765782987" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.17959220614665" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="163.17959220614665" y="0" width="139.45512328200354" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="302.6347154881502" y="0" width="55.093182317727525" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="357.7278978058777" y="0" width="52.9068693999457" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="410.63476720582344" y="0" width="20.59368785798327" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="431.22845506380673" y="0" width="14.575022949717493" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.80347801352417" y="0" width="7.935435656749802" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.738913670274" y="0" width="6.261086329726026" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1333,6 +1333,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#f754363</div>
+                                        <div class="message">fix: validation and remove email from field</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dhoniaridho/mochinul-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c8183ca</div>
                                         <div class="message">Update index.vue</div>
                                     </div>
@@ -1399,26 +1419,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dhoniaridho/mochinul-cms</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#22b005c</div>
-                                        <div class="message">feat: title</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1442,7 +1442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2023, 23:21:03 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Aug 2023, 00:13:45 (timezone Asia/Bangkok) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
