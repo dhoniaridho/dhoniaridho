@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1177" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1111" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6602 Commits
+                            6613 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1326,46 +1326,54 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
+                                        <span class="repo">xignature-dev/certificate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a41edaf</div>
+                                        <div class="message">feat(certificate): dt certificate</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xignature-dev/certificate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c6e4520</div>
+                                        <div class="message">feat(certificate): dt certificate</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">xignature-dev/client</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9752acf</div>
-                                        <div class="message">feat(certificate): enterprise personal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f275a38</div>
-                                        <div class="message">Merge branch 'feat/product' into 'main'
-
-feat(activityLog):list, detail)
-
-See merge request backend/client!12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbf7db9</div>
-                                        <div class="message">feat(activityLog):list, detail)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xignature-dev/certificate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#34b1da2</div>
+                                        <div class="sha">#d3a8a43</div>
                                         <div class="message">feat(certificate): enterprise personal</div>
                                     </div>
                                 </div>
@@ -1379,13 +1387,13 @@ See merge request backend/client!12</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">xignature-dev/authentication</span>
+                                        <span class="repo">xignature-dev/gateway</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#064ee11</div>
+                                        <div class="sha">#160593f</div>
                                         <div class="message">feat(certificate): enterprise personal</div>
                                     </div>
                                 </div>
@@ -1398,59 +1406,27 @@ See merge request backend/client!12</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xignature-dev/certificate</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">xignature-dev/gateway</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#68e5e12</div>
-                                        <div class="message">feat(certificate): remove intercepter</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">xignature-dev/certificate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bedefc5</div>
-                                        <div class="message">feat(certificate): active cerificate</div>
+                                        <div class="sha">#80d5e30</div>
+                                        <div class="message">feat(certificate): enterprise personal</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3fda2ca</div>
-                                        <div class="message">Merge branch 'feature/certificate' into 'main'
+                                        <div class="sha">#608d533</div>
+                                        <div class="message">Merge branch 'billing' into 'main'
 
-fix(certificate):penyesuaian dari response service ca
+feat(activityLog):list, detaiil
 
-See merge request backend/certificate!9</div>
+See merge request backend/gateway!13</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2a1c203</div>
-                                        <div class="message">fix(certificate):penyesuaian dari response service ca</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc15570</div>
-                                        <div class="message">Merge branch 'feature/certificate' into 'main'
-
-fix(certificate):call service ca
-
-See merge request backend/certificate!8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a26d111</div>
-                                        <div class="message">fix(certificate):call service ca</div>
+                                        <div class="sha">#35209fb</div>
+                                        <div class="message">feat(activityLog):list, detaiil</div>
                                     </div>
                                 </div>
                             </section>
@@ -1478,7 +1454,7 @@ See merge request backend/certificate!8</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2023, 15:20:45 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2023, 16:17:00 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
