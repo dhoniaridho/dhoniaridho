@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10096 Commits
+                            10097 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.49419005726685" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="147.49419005726685" y="0" width="127.58333790130493" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="275.07752795857175" y="0" width="78.43117583725748" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="353.50870379582926" y="0" width="45.17874559018365" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="398.6874493860129" y="0" width="32.005229207024264" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="430.69267859303716" y="0" width="13.667710577457113" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="444.3603891704942" y="0" width="8.408080862405455" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.7684700328997" y="0" width="7.231529967100262" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.26819524645128" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="147.26819524645128" y="0" width="128.0857882767347" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="275.35398352318595" y="0" width="78.31100134944543" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="353.6649848726314" y="0" width="45.1095214257703" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="398.77450629840166" y="0" width="31.963077809586977" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="430.73758410798865" y="0" width="13.646768520925699" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="444.38435262891437" y="0" width="8.395197760751868" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.7795503896662" y="0" width="7.220449610333752" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1343,6 +1343,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">dhoniaridho/vue-starter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2af30b0</div>
+                                        <div class="message">feat: landingpage</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Yureka-Teknologi-Cipta/broden-service-notification-api</span>
                                     </div>
                                 </div>
@@ -1415,26 +1435,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Yureka-Teknologi-Cipta/broden-service-notification-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ba9aca8</div>
-                                        <div class="message">chore: fix error run application on server</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1458,7 +1458,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2024, 08:36:47 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2024, 09:18:09 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
