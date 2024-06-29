@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            11264 Commits
+                            11269 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.82357186572594" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="153.82357186572594" y="0" width="131.83454774304553" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="285.65811960877147" y="0" width="72.9736101648595" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="358.6317297736309" y="0" width="42.27925553412857" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="400.9109853077595" y="0" width="31.753070666712855" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.6640559744724" y="0" width="12.716654734273297" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="445.3807107087457" y="0" width="7.859641373841884" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.2403520825876" y="0" width="6.759647917412441" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="154.71590361203022" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="154.71590361203022" y="0" width="131.45032433000344" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="286.1662279420337" y="0" width="72.76093321454907" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="358.92716115658277" y="0" width="42.15603533016607" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="401.0831964867489" y="0" width="31.660528359745566" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="432.74372484649444" y="0" width="12.679592852026746" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="445.4233176985212" y="0" width="7.836734948434864" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.26005264695607" y="0" width="6.739947353044038" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1327,14 +1327,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#50390b6</div>
-                                        <div class="message">Merge pull request #4 from dhoniaridho/feature/v0.1.1/slicing
+                                        <div class="sha">#56ad471</div>
+                                        <div class="message">Merge pull request #5 from dhoniaridho/feature/v0.1.1/slicing
 
-fix: layout error window</div>
+feat(applicant): list &amp; create page</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#56eed2e</div>
-                                        <div class="message">fix: toggle layout</div>
+                                        <div class="sha">#f0e6f51</div>
+                                        <div class="message">feat(applicant): list &amp; create page</div>
                                     </div>
                                 </div>
                             </section>
@@ -1347,12 +1347,12 @@ fix: layout error window</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#4 fix: layout error window</span>
+                                        <span class="issue">#5 feat(applicant): list &amp; create page</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">dhoniaridho/mta-fe</span></div>
-                                    <div>1 file changed <span class="code">++4 --2</span></div>
+                                    <div>12 files changed <span class="code">++440 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1364,12 +1364,12 @@ fix: layout error window</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4 fix: layout error window</span>
+                                        <span class="issue">#5 feat(applicant): list &amp; create page</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">dhoniaridho/mta-fe</span></div>
-                                    <div>1 file changed <span class="code">++4 --2</span></div>
+                                    <div>12 files changed <span class="code">++440 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1387,8 +1387,8 @@ fix: layout error window</div>
                                 <div class="details">
                                     <div>on branch <span class="code">feature/v0.1.1/slicing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#56eed2e</div>
-                                        <div class="message">fix: toggle layout</div>
+                                        <div class="sha">#f0e6f51</div>
+                                        <div class="message">feat(applicant): list &amp; create page</div>
                                     </div>
                                 </div>
                             </section>
@@ -1407,14 +1407,14 @@ fix: layout error window</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#821cbf4</div>
-                                        <div class="message">Merge pull request #3 from dhoniaridho/feature/v0.1.1/slicing
+                                        <div class="sha">#50390b6</div>
+                                        <div class="message">Merge pull request #4 from dhoniaridho/feature/v0.1.1/slicing
 
 fix: layout error window</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c2e31b4</div>
-                                        <div class="message">fix: layout error window</div>
+                                        <div class="sha">#56eed2e</div>
+                                        <div class="message">fix: toggle layout</div>
                                     </div>
                                 </div>
                             </section>
@@ -1479,7 +1479,7 @@ fix: layout error window</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2024, 01:21:03 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2024, 02:12:55 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
